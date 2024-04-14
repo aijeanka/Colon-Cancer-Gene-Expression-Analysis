@@ -10,6 +10,7 @@ This repository contains the data and analysis for a study on colon cancer, focu
 - `Aizhan-Uteubayeva-TTestHW-04-Output.csv`: T-test results.
 - `Aizha-Uteubayeva-TTestHW-05-Top20Genes.tsv`: Top 20 differentially expressed genes.
 - `output/`: Folder containing all output files related to the analysis sanity checks.
+  Aizhan_Uteubayeva_FeatureIDs.tsv; CRC ClinBaseIDs.tsv; CRC ClinCompIDs.tsv; CRC GeneExpBaseIDs.tsv; CRC_TTest__Relapsed_(Comp).vs._Non-relapsed_(Base).TTest.csv; CRCgenExpFeatureIDsCheck.tsv; GeneExpCompIDs.tsv
 
 
 ## Authors
